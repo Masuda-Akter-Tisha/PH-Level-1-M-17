@@ -42,3 +42,4 @@ function evenNumOfArray (number) {
 const num2 = [10, 22, 31, 43, 102, 40, 55];
 const result2 = evenNumOfArray (num2);
  console.log('even numbers are:', result2);
+
